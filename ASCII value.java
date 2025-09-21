@@ -6,3 +6,4 @@ public class Main {
         int ASCIIvalue= character;
         System.out.println(character+":"+ASCIIvalue);
 }
+}
